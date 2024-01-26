@@ -18,7 +18,7 @@ docker stop - stop a running container
 docker start - start a stopped container
 
 docker restart - restart a container
-
+ 
 docker logs - show the logs of a container
 
 docker exec - execute a command inside a running container
