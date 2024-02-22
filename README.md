@@ -3,7 +3,7 @@
 ## Docker important commands
                 
 ## The Ultimate Docker 50 commands.  
-_________________
+_________________     
 docker run - run a container from an image
    
 docker pull - pull an image from a registry       
