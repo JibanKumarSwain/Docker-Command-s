@@ -8,7 +8,7 @@ docker run - run a container from an image
    
 docker pull - pull an image from a registry       
    
-docker push - push an image to a registry    
+docker push - push an image to a registry       
 
 docker build - build an image from a Docker file
 
