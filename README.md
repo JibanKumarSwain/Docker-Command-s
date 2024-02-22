@@ -13,7 +13,7 @@ docker push - push an image to a registry
 docker build - build an image from a Docker file     
 
 docker ls - list running containers  
-
+   
 docker stop - stop a running container
 
 docker start - start a stopped container
