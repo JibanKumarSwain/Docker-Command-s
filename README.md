@@ -10,7 +10,7 @@ docker pull - pull an image from a registry
    
 docker push - push an image to a registry           
 
-docker build - build an image from a Docker file     
+docker build - build an image from a Docker file          
 
 docker ls - list running containers  
    
